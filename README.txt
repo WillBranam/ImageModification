@@ -1,9 +1,7 @@
 
-# Gaussian and Laplacian Pyramids — PR1
+# Gaussian and Laplacian Pyramids
 
 **Author:** William Branam  
-**Course:** CISC 442 — Computer Vision  
-**Assignment:** Programming Assignment 1
 
 ---
 
